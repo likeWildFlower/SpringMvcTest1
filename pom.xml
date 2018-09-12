@@ -2,9 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.edu.cap</groupId>
-    <artifactId>springmvc1</artifactId>
-    <packaging>war</packaging>
+    <artifactId>SpringMvcTest1</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+
     <name>springmvc1 Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
@@ -80,7 +81,7 @@
 
     </dependencies>
     <build>
-        <finalName>springmvcTest1</finalName>
+        <finalName>SpringMvcTest1</finalName>
 
 
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
