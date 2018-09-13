@@ -1,4 +1,6 @@
 package cap.bean;
+//弃用工程！！！
+//新的工程：https://github.com/likeWildFlower/mySpringmvc01.git
 
 public class Admin {
     private String username;
